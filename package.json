@@ -1,0 +1,29 @@
+{
+  "name": "practica2",
+  "version": "1.0.0",
+  "description": "\"Primera practica\"",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "",
+    "dev": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/JosephColin57/backend-practica2.git"
+  },
+  "keywords": [
+    "practica",
+    "learn",
+    "chambeando"
+  ],
+  "author": "JosephColin57",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JosephColin57/backend-practica2/issues"
+  },
+  "homepage": "https://github.com/JosephColin57/backend-practica2#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
